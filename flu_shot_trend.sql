@@ -1,0 +1,8 @@
+
+    SELECT _STATE, IYEAR,
+    1.0 * SUM(CASE WHEN _FLSHOT6 = 1 THEN 1 ELSE 0 END) /
+        NULLIF(SUM(CASE WHEN _FLSHOT6 IN (1,2) THEN 1 ELSE 0 END),0) AS flu_shot_rate
+    FROM processed_public_health
+    GROUP BY _STATE, IYEAR
+    ORDER BY IYEAR, _STATE;
+    
