@@ -29,14 +29,16 @@ The project showcases **end-to-end public health data workflows**, including:
 
 ---
 
-## 📊 Dashboards
-Interactive **Power BI dashboards** were built to communicate insights:  
+##  Dashboards
+
+Interactive **Power BI dashboards** were built to communicate insights:
 
 1. **State-level Average BMI, Flu Shot, and Pneumonia Vaccine Rates**  
-   ![BMI & Vaccination Rates by State](images/Average BMI, Flu Shot Rate and Pneumonia Vaccine by _state.png)  
+   ![BMI & Vaccination Rates by State](images/Average BMI, Flu Shot Rate and Pneumonia Vaccine by _state.png)
 
 2. **Yearly Flu Shot Trend Analysis**  
-   ![Flu Shot Trends](images/Dashboard for average by cstate.png)  
+   ![Flu Shot Trends](images/Dashboard for average by cstate.png)
+
 
 
 ---
