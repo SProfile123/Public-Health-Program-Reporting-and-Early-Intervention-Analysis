@@ -27,24 +27,6 @@ The project showcases **end-to-end public health data workflows**, including:
 - **Power BI** → Interactive dashboards for public health reporting  
 - **Dataset** → BRFSS (CDC Behavioral Risk Factor Surveillance System)  
 
----
-
-##  Dashboards
-
-Interactive **Power BI dashboards** were built to communicate insights:
-
-1. **State-level Average BMI, Flu Shot, and Pneumonia Vaccine Rates**  
-   ![BMI & Vaccination Rates by State](Public-Health-Program-Reporting-and-Early-Intervention-Analysis
-/images/Average BMI, Flu Shot Rate and Pneumonia Vaccine by _state.png)
-
-2. **Yearly Flu Shot Trend Analysis**  
-   ![Flu Shot Trends](Public-Health-Program-Reporting-and-Early-Intervention-Analysis
-/images/ Dashboard for average by cstate.png)
-
-
-
----
-
 ## 🔑 Key Insights
 - States with **higher median BMI** showed **lower flu shot coverage**, suggesting possible risk factors.  
 - **Flu shot uptake increased year-over-year** in most states, reflecting effective health campaigns.  
